@@ -79,7 +79,7 @@
   text-decoration: none;
 }
 
-li:hover,
+.veja-mais li:hover,
 .active {
   transition: 0.5s;
   opacity: 0.4;
